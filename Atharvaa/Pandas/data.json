@@ -1,0 +1,18 @@
+[
+    {
+    "name" : "Shreya",
+    "age" : 25,
+    "city" : "New York"
+},
+{
+<<<<<<< HEAD:Atharvaa/pandas/data.json
+    "name" : "Jack",
+    "age" : 35,
+    "city" : "Old York"
+=======
+    "name" : "atharva",
+    "age" : 70,
+    "city" : "Thailand"
+>>>>>>> Paris:Shreya/pandas/data.json
+}
+]
