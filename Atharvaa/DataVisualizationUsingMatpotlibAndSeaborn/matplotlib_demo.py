@@ -28,7 +28,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 for i in range(1):
-    plt.plot(np.random.rand(1000), linewidth=1)
+    plt.plot(np.random.rand(10), linewidth=1)
 
 plt.title("Too Much Data Can Be Confusing!")
 plt.grid(True)
