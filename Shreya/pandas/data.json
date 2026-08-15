@@ -1,18 +1,6 @@
-[
-    {
-    "name" : "Shreya",
-    "age" : 25,
-    "city" : "New York"
+[{
+    "id":1, "name":"ALice", "address":{"city": "Delhi", "zipcode": "110001"}
 },
 {
-<<<<<<< HEAD:Atharvaa/pandas/data.json
-    "name" : "Jack",
-    "age" : 35,
-    "city" : "Old York"
-=======
-    "name" : "atharva",
-    "age" : 70,
-    "city" : "Thailand"
->>>>>>> Paris:Shreya/pandas/data.json
-}
-]
+    "id":2, "name": "Bob", "address": {"city": "Mumbai", "zipcode": "400001"}
+}]
